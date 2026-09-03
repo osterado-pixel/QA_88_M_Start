@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28c6a5a4-3459-4489-8956-a65421a117bd" name="Changes" comment="Lesson 2">
-      <change afterPath="$PROJECT_DIR$/lesson_3/exeptions_my.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3/loops_and_functions.py" afterDir="false" />
+    <list default="true" id="28c6a5a4-3459-4489-8956-a65421a117bd" name="Changes" comment="Lesson 3">
+      <change afterPath="$PROJECT_DIR$/lesson_04/classes_my.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/exeptions_my.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_03/exeptions_my.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3/loops_and_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_03/loops_and_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.classes_my.executor": "Run",
     "Python.exeptions_my.executor": "Run",
     "Python.loops_and_functions.executor": "Run",
     "Python.type_collections.executor": "Run",
@@ -62,7 +64,29 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.exeptions_my">
+  <component name="RunManager" selected="Python.classes_my">
+    <configuration name="classes_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QA_88M_Start" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_04/classes_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exeptions_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA_88M_Start" />
       <option name="ENV_FILES" value="" />
@@ -153,6 +177,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classes_my" />
         <item itemvalue="Python.exeptions_my" />
         <item itemvalue="Python.loops_and_functions" />
         <item itemvalue="Python.type_collections" />
@@ -199,12 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1788265373634</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson 3">
+      <option name="closed" value="true" />
+      <created>1788351777501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788351777501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 1" />
     <MESSAGE value="Lesson 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2" />
+    <MESSAGE value="Lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3" />
   </component>
 </project>
