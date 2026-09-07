@@ -44,4 +44,6 @@ def get_initials(full_name):
         raise ValueError("Full Name cannot be empty")
     parts = full_name.split()
     initials = [part[0].upper() for part in parts]
-    return "".join(initials)+"."
+    str = ".".join(initials)+"."
+    print(str)
+    return str
