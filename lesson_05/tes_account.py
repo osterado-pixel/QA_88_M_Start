@@ -68,4 +68,7 @@ class TestGetInitials(unittest.TestCase):
         with self.assertRaises(ValueError):
             get_initials("   ")
 
+    def test_text_limit(self):
+        self.assertEqual(cut_length("text is not empty", 10), "text is no***")
+
 
