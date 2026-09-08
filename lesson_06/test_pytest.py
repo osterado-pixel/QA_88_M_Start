@@ -84,4 +84,11 @@ def test_user_age(my_user):
 
 
 # create func reverse string and test for it
+def reverse_word(word):
+    return word[::-1]
+
+def test_reverse_word():
+    assert reverse_word("aisi") == "isia"
+    assert reverse_word("dog") == "god"
+    assert reverse_word("cat") == "tac"
 # same test with parametrize
